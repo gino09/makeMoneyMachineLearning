@@ -2,3 +2,9 @@
     display:block;
     margin-left:50px
 }
+#footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+ 
+}
